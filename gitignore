@@ -1,0 +1,5 @@
+# Environment variables - NEVER commit this
+.env
+
+# Spark checkpoints & logs
+checkpoints/
